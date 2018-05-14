@@ -1,0 +1,19 @@
+{
+  "name": "test.git.git-flow",
+  "version": "0.0.1",
+  "description": "The purpose of this repository is to test the updates proposed during the process meeting held on Friday May 11th, 2018.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrmykolyn/test.git.git-flow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrmykolyn/test.git.git-flow/issues"
+  },
+  "homepage": "https://github.com/jrmykolyn/test.git.git-flow#readme"
+}
